@@ -35,19 +35,25 @@ Bu proje, ilaç kullanıcılarının potansiyel etkileşim ve yan etkileri önce
 | Şevval Savrunlu      | Developer          |
 | Fatıma Zeyneb Kotan  | Developer          |
 
-> Tüm takım Scrum metodolojisine uygun şekilde çalışmış, haftalık stand-up'lar, sprint planlama ve retrospektif etkinlikleri gerçekleştirmiştir.
+> Tüm takım Scrum metodolojisine uygun şekilde çalışmış, haftalık stand-up'lar, sprint planlama etkinlikleri gerçekleştirmiştir.
 
 ---
 
 ### 📦 Sprint 1 Backlog (User Story'ler)
 
-| ID   | User Story                                                     | Süre  | Durum          |
-|-------|--------------------------------------------------------------|-------|----------------|
-| US01  | Giriş ekranı ve proje tanıtımı arayüzü                       | 2 gün | ✅ Tamamlandı  |
-| US02  | İlaç girişi alanı ve dinamik form yapısı                     | 2 gün | ✅ Tamamlandı  |
-| US03  | Semptom girişi alanı ve veri işleme hazırlığı                | 1 gün | ✅ Tamamlandı  |
-| US04  | UI renk paleti, yazı tipi ve tasarım dili rehberi            | 1 gün | ✅ Tamamlandı  |
-| US05  | Gemini API ile veri alışverişi için mock veri sistemi kurulumu| 3 gün | 🟡 Devam Ediyor|
+
+| ID   | Görev / User Story                                | Öncelik | Durum           | Notlar                                                 |
+| ---- | ------------------------------------------------- |-------- | ----------------|--------------------------------------------------------|
+| US01 | Giriş ekranı ve proje tanıtımı arayüzü            | Yüksek  | ✅ Tamamlandı   |                                                        |
+| US02 | İlaç girişi alanı ve dinamik form yapısı          | Yüksek  | ✅ Tamamlandı   |                                                        |
+| US03 | Semptom girişi alanı ve veri işleme hazırlığı     | Orta    | ✅ Tamamlandı   |                                                        |
+| US04 | UI renk paleti, yazı tipi ve tasarım dili rehberi | Orta    | ✅ Tamamlandı   |                                                        |
+| US05 | Gemini API mock veri sistemi kurulumu             | Yüksek  | 🟡 Devam Ediyor | Mock veri denendi, gerçek API entegrasyonu planlanıyor |
+| US06 | Kullanıcı veri girişinin backend’e gönderilmesi   | Yüksek  | 🟠 Planlandı    | Backend geliştirme sonrası                             |
+| US07 | Yapay zeka sonuçlarının frontend’de gösterilmesi  | Yüksek  | 🟠 Planlandı    | API entegrasyonu sonrası                               |
+| US08 | Testlerin yazılması ve QA                         | Orta    | 🟠 Planlandı    | Sprint 2’ye bırakıldı                                  |
+
+
 
 ---
 
@@ -72,5 +78,13 @@ Bu proje, ilaç kullanıcılarının potansiyel etkileşim ve yan etkileri önce
 
 ---
 
-**İletişim:**  
-Proje ile ilgili sorularınız için lütfen [email@example.com](mailto:email@example.com) adresine ulaşınız.
+### 🖥️ Arayüz Görselleri
+
+![Ekran görüntüsü 2025-07-04 213026](https://github.com/user-attachments/assets/9176f8f7-781a-4db2-a271-37d9b41f55fa)
+![Ekran görüntüsü 2025-07-05 150903](https://github.com/user-attachments/assets/440b376f-4862-4127-9c0b-2352b0114ce2)
+![Ekran görüntüsü 2025-07-05 152055](https://github.com/user-attachments/assets/0b3317ea-aa81-487a-afa4-5190e09745bb)
+![Ekran görüntüsü 2025-07-05 152101](https://github.com/user-attachments/assets/c03eb4c0-9b71-4405-a6f4-cc49d381e9c7)
+
+
+
+
